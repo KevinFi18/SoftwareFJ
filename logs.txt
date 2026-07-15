@@ -1,0 +1,25 @@
+2026-07-14 19:34:41.075605 - Reserva confirmada correctamente.
+2026-07-14 19:34:41.076618 - Reserva procesada correctamente.
+2026-07-14 19:34:41.077520 - Proceso de reserva finalizado.
+2026-07-14 19:43:56.229576 - Reserva confirmada correctamente.
+2026-07-14 19:43:56.230267 - Reserva procesada correctamente.
+2026-07-14 19:43:56.230473 - Proceso de reserva finalizado.
+2026-07-14 19:45:57.222009 - Reserva confirmada para Kevin Figueroa
+2026-07-14 19:45:57.223093 - Finalizó el proceso de reserva.
+2026-07-14 19:50:33.551693 - Reserva confirmada para Kevin Figueroa
+2026-07-14 19:50:33.552696 - Finalizó el proceso de reserva.
+2026-07-14 19:50:33.553589 - ERROR: La duración debe ser mayor que cero.
+2026-07-14 19:50:33.554775 - Finalizó el proceso de reserva.
+2026-07-14 19:50:33.555720 - Reserva cancelada para Kevin Figueroa
+2026-07-14 19:52:51.088542 - Reserva confirmada para Kevin Figueroa.
+2026-07-14 19:52:51.089374 - Finalizó el proceso de reserva.
+2026-07-14 19:52:51.089869 - Error al confirmar la reserva: La duración debe ser mayor que cero.
+2026-07-14 19:52:51.090141 - Reserva rechazada: No fue posible confirmar la reserva.
+2026-07-14 19:52:51.090353 - Finalizó el proceso de reserva.
+2026-07-14 19:52:51.090854 - Reserva cancelada para Kevin Figueroa.
+2026-07-14 20:01:19.680623 - Reserva confirmada para Kevin Figueroa.
+2026-07-14 20:01:19.681414 - Finalizó el proceso de reserva.
+2026-07-14 20:01:19.681966 - Error al confirmar la reserva: La duración debe ser mayor que cero.
+2026-07-14 20:01:19.682367 - Reserva rechazada: No fue posible confirmar la reserva.
+2026-07-14 20:01:19.682601 - Finalizó el proceso de reserva.
+2026-07-14 20:01:19.682914 - Reserva cancelada para Kevin Figueroa.
